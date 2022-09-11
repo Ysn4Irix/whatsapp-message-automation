@@ -1,0 +1,28 @@
+{
+  "name": "whatsapp-message-automation",
+  "version": "1.0.0",
+  "description": "An app that automate Whatsapp web to sending a bulk messages to specific contact",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ysn4Irix/whatsapp-message-automation.git"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "puppeteer",
+    "automation"
+  ],
+  "author": "Ysn4Irix",
+  "license": "MIT",
+  "bugs": {
+    "url": "git+https://github.com/Ysn4Irix/whatsapp-message-automation/issues"
+  },
+  "homepage": "https://github.com/Ysn4Irix/whatsapp-message-automation#readme",
+  "dependencies": {
+    "puppeteer": "^17.1.3"
+  }
+}
