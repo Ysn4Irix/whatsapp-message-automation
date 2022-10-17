@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/Ysn4Irix/whatsapp-message-automation#readme",
   "dependencies": {
-    "puppeteer": "^18.0.5"
+    "puppeteer": "^19.0.0"
   }
 }
